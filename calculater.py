@@ -1,7 +1,7 @@
 """
-Created on Mon Jul  6 23:26:25 2020
+Created on Fri Dec  19 21:2:25 2025
 
-@author: Avinash Ranjan
+@author: Nelapalli Chiranjeevi
 """
 
 import re
@@ -36,4 +36,5 @@ def performMath():
 
 
 while run:
+
     performMath()
